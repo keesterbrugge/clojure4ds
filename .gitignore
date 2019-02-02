@@ -1,0 +1,4 @@
+data/intermediate
+.DS_Store
+.ipynb_checkpoints/
+.ipynb
